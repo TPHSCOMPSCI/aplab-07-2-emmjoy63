@@ -1,8 +1,7 @@
-import javax.swing.JFileChooser;
-import javax.swing.JFrame;
-import java.util.Properties;
 import java.io.*;
 import java.net.*;
+import javax.swing.JFileChooser;
+import javax.swing.JFrame;
   
 /**
  * A class to make working with a file chooser easier
